@@ -1126,8 +1126,8 @@ img.with-border {
     background-repeat: no-repeat;
     background-position: 50% 50%;
     background-color: #FFF;
-    filter: blur(2px);
-    -webkit-filter: blur(2px);
+    filter: blur(1px);
+    -webkit-filter: blur(1px);
     -webkit-transform: translateZ(0);
 }
 @media screen and (max-width:799px) {
