@@ -137,7 +137,7 @@ html[xmlns] .slides {
     *height: 0;
 }
 
-.flex-direction-nav a {
+/* .flex-direction-nav a {
     text-decoration: none;
     display: block;
     width: 40px;
@@ -154,7 +154,7 @@ html[xmlns] .slides {
     -webkit-transition: all .3s ease;
     -moz-transition: all .3s ease;
     transition: all .3s ease;
-}
+} */
 
 .flex-direction-nav .flex-prev {
     left: -50px;
